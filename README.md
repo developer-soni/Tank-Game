@@ -4,7 +4,7 @@
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 
-## Description
+## DESCRIPTION
 The objective of this game is to destroy the other player i.e., Tank. It consists of two tanks each with their own screen and a shared map. They are located on two sides of the map and the objective is to destroy the rival tank using arrow keys and WASD keys for Player 1 and 2 respectively. The life of each tank is displayed on the tank and there are different power-ups to give special powers to the tank if the player collects it. There are breakable and unbreakable walls. Power-ups consists of “FULL LIFE”, “2X HITS” and “SUPER (BOTH)”. Each player has 3 lives and the game ends if either player dies. The score and life count is displayed on the screen. The player with the highest points wins.
 
 ## DEVELOPMENT ENVIRONMENT
