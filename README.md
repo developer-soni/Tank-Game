@@ -47,3 +47,12 @@ The player with the highest points wins.
 * Tank.java : This is the main class and is used to load images of tanks, walls, music, collision sound, bullet sounds and all other sprites. Also to define the area of tank movement and the mini map and 2 displays.
 * Wall.java : Used to load breakable wall and define it on collision.
 * Wall2.java : Used to load unbreakable wall and define it on collision.
+
+## UML DIAGRAM
+<img src="uml1.png" alt="UML!" width="100%"/>
+
+## GAMEPLAY
+<img src="tank1.gif" alt="TankPlay1!" width="70%"/>
+<img src="tank2.gif" alt="TankPlay2!" width="70%"/>
+<img src="tank3.gif" alt="TankPlay3!" width="70%"/>
+
